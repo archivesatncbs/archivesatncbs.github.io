@@ -10,6 +10,6 @@
 
 ## ArchivesSpace - DSpace Datamaps
 ### ancbs artifact :	[at-###-ancbs-finding-aid-datamap](https://docs.google.com/spreadsheets/d/1ZH8lHlaVEPZM3Yfqajo7_KeGQiNt0Ac2K-9azUBjsXU/edit?usp=sharing)
-### ancbs bibliographic : [bb-###-ancbs-finding-aid-datamap] (https://docs.google.com/spreadsheets/d/1Fax5CEGuGR00tSNPQ_KM8KtnV4E_GBTT6JFDFs7LJuc/edit?usp=sharing)
+### ancbs bibliographic : [bb-###-ancbs-finding-aid-datamap](https://docs.google.com/spreadsheets/d/1Fax5CEGuGR00tSNPQ_KM8KtnV4E_GBTT6JFDFs7LJuc/edit?usp=sharing)
 ### ancbs manuscript :	[ms-###-ancbs-finding-aid-datamap](https://docs.google.com/spreadsheets/d/1JqUXxfCENpehq0WFObSHYZS7G_Ro3nuf1FixlF23NhI/edit?usp=sharing)
-### ancbs oral history :	[oh-###-ancbs-finding-aid-datamap] (https://docs.google.com/spreadsheets/d/161IuF1kPNIAIAcazQkTC7eAMrVkF_P_8NDM0monNWcY/edit?usp=sharing)
+### ancbs oral history :	[oh-###-ancbs-finding-aid-datamap](https://docs.google.com/spreadsheets/d/161IuF1kPNIAIAcazQkTC7eAMrVkF_P_8NDM0monNWcY/edit?usp=sharing)
