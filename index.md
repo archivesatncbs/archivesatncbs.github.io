@@ -4,6 +4,9 @@
 ## Projects 
 ### [archives.ncbs.res.in](https://archives.ncbs.res.in) (UNDER MAINTENANCE)
   - Update: 30 Oct 2026: The Archives at NCBS website is currently under maintenance by the NCBS IT Team. Our apologies! In the meantime, the following links are operational. If you have questions, please reach out to us at archives@ncbs.res.in. Thanks for your consideration. We'll update this site when we have more information.
+
+### [Program for the Archiving of Science and Technology (PAST) -- Cohort 2](https://docs.google.com/document/d/16QcRdw17k9MUGVKsLoJXw4p8vMDPR-BDiVsk6a5Xvx0/)
+
 ### [catalogue.archives.ncbs.res.in](http://catalogue.archives.ncbs.res.in)  
 ### [collections.archives.ncbs.res.in](http://collections.archives.ncbs.res.in)  
 ### [ethics-law.archives.ncbs.res.in](https://ethics-law.archives.ncbs.res.in)
