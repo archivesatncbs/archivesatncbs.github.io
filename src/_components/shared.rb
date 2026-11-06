@@ -18,7 +18,7 @@ module Shared
           Willamette.link(title: t("nav.past"), url: "https://archives.ncbs.res.in/past"),
           Willamette.link(title: t("nav.thesilverfish"), url: "https://thesilverfish.archives.ncbs.res.in"),
           Willamette.link(title: t("nav.access"), url: "/access"),
-          Willamette.link(title: t("nav.updates"), url: "/blog"),
+          Willamette.link(title: t("nav.updates"), url: "/updates"),
           Willamette.link(title: t("nav.about"), url: "/about"),
           # Willamette.link(icon: "mastodon", icon_family: "brands", icon_label: "Mastodon", title: nil, url: "https://mastodon.social"),
         ]
