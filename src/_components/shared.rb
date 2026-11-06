@@ -15,7 +15,7 @@ module Shared
         site_title: metadata.title,
         nav_links: [
           Willamette.link(title: t("nav.catalogue"), url: "https://catalogue.archives.ncbs.res.in"),
-          Willamette.link(title: t("nav.past"), url: "https://archives.ncbs.res.in/past"),
+          Willamette.link(title: t("nav.past"), url: "/past"),
           Willamette.link(title: t("nav.thesilverfish"), url: "https://thesilverfish.archives.ncbs.res.in"),
           Willamette.link(title: t("nav.access"), url: "/access"),
           Willamette.link(title: t("nav.updates"), url: "/updates"),
