@@ -44,8 +44,8 @@ module Shared
         follow_links: [
           Willamette.link(icon: "instagram", icon_family: "brands", title: "Instagram", url: "https://instagram.com/archives_ncbs"),
           Willamette.link(icon: "flickr", icon_family: "brands", title: "Flickr", url: "https://www.flickr.com/archivesatncbs"),
-          Willamette.link(icon: "facebook", icon_family: "brands", title: "Facebook", url: "https://facebook.com/archives_ncbs"),
-          Willamette.link(icon: "x-twitter", icon_family: "brands", title: "Twitter", url: "https://x.com/archives_ncbs"),
+          Willamette.link(icon: "facebook", icon_family: "brands", title: "Facebook", url: "https://www.facebook.com/archives.at.NCBS"),
+          Willamette.link(icon: "x-twitter", icon_family: "brands", title: "Twitter", url: "https://x.com/Archives_NCBS"),
           Willamette.link(icon: "threads", icon_family: "brands", title: "Threads", url: "https://www.threads.com/@archives_ncbs"),
         ],
         subscribe: false,
