@@ -1,0 +1,28 @@
+en:
+  content:
+    featured_post_image: featured post image
+    skip_to_content: Skip to content
+    posts:
+      more_posts: More Posts
+      newer_posts: Newer Posts
+  labels:
+    close: Close
+    email_address: Email Address
+    first_name: First Name (Optional)
+    next: Next
+    previous: Previous
+    search: Search
+    subscribe: Subscribe
+  documentation:
+    contents: Contents
+    explore: Explore
+  marketing:
+    follow: Follow Us
+    subscribe: Subscribe
+    see_also: See Also
+  nav:
+    blog: Blog
+    about: About
+    catalogue: Catalogue
+    access: Access 
+    thesilverfish: The Silverfish

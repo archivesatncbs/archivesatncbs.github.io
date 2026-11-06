@@ -16,7 +16,7 @@
 
 Bridgetown.configure do |config|
   # The base hostname & protocol for your site, e.g. https://example.com
-  url ""
+  url "https://archives.ncbs.res.in"
 
   # Available options are `erb` (default), `serbea`, or `liquid`
   template_engine "erb"
@@ -109,5 +109,9 @@ Bridgetown.configure do |config|
     enabled true
   end
 
-  init :"willamette" 
+  available_locales [:en]
+  default_locale :en
+  prefix_default_locale false
+
+  init :"willamette"
 end
