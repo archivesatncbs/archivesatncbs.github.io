@@ -334,6 +334,7 @@ export default async (esbuildOptions, ...args) => {
       ".woff2": "file",
       ".ttf": "file",
       ".eot": "file",
+      ".otf":"file",
     },
     resolveExtensions: [".tsx", ".ts", ".jsx", ".js", ".css", ".scss", ".sass", ".json", ".js.rb"],
     minify: process.argv.includes("--minify"),

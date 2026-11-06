@@ -2,11 +2,51 @@
 @import "@awesome.me/webawesome/dist/styles/webawesome.css";
 @import "willamette/frontend/styles/theme.css";
 
+
+@font-face {
+  font-family: 'Degular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/Degular/DegularDemo-Regular.otf') format('otf');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Degular';
+  font-style: bold;
+  src: url('../fonts/Degular/DegularDemo-Bold.otf') format('otf');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Degular';
+  font-style: thin;
+  src: url('../fonts/Degular/DegularDemo-Thin.otf') format('otf');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Degular';
+  font-style: italic;
+  src: url('../fonts/Degular/DegularDemo-Italic.otf') format('otf');
+  font-weight: 400;
+  font-display: swap;
+}
+
+
+
+
 /** Customize Willamette theme tokens or Web Awesome tokens (or make your own!) **/
 :root {
   /* --wll-color-brand: var(--wa-color-blue-50); */
   /* --wll-color-brand: rgb(105, 26, 184); */
   /* --wll-layout-padding: 2rem; */
   --wll-color-brand: #824141;
-
+  --wa-font-family-body: "Degular";
+  --wa-font-family-longform: "Degular";
+  --wa-font-weight-heading: 800;
+  --wll-font-weight-major-heading: 400;
 }
+
