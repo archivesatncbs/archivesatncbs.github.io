@@ -14,6 +14,16 @@
   </details>
 <% end %>
 
+
+<% if strategy.see_also? %>
+  <h2><%= t "marketing.projects" %></h2>
+
+  <nav>
+    <%= strategy.see_also_links %>
+  </nav>
+<% end %>
+
+
 <% if strategy.follow? %>
   <details id="follow-menu" open>
     <summary><h2><wa-icon class="show-small-screen" name="bars"></wa-icon> <%= t "marketing.follow" %></h2></summary>
@@ -41,13 +51,6 @@
         <p style="opacity:0.75"><small>Free of spam, promise!<br><a href="#/archives" style="font-weight: bold" target="_blank">Visit the Archives</a></small></p>
       </form>
     <% end %>
+    </details>
   <% end %>
 
-  <% if strategy.see_also? %>
-    <h2><%= t "marketing.see_also" %></h2>
-
-    <nav>
-      <%= strategy.see_also_links %>
-    </nav>
-  <% end %>
-</details>
