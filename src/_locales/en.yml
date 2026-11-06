@@ -20,6 +20,7 @@ en:
     follow: Follow Us
     subscribe: Subscribe
     see_also: See Also
+    projects: Projects
   nav:
     blog: Blog
     about: About
@@ -28,3 +29,4 @@ en:
     thesilverfish: The Silverfish
     past: PAST
     updates: Updates
+    home: Home

@@ -5,7 +5,7 @@
 # in the templates via {{ site.metadata.myvariable }}.
 
 title: Archives at NCBS
-# tagline: History of Science in Contemporary India
+tagline: History of Science in Contemporary India
 email: archives@ncbs.res.in
 description: >-
   History of Science in Contemporary India
