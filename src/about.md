@@ -13,8 +13,8 @@ The Archives at NCBS is a public centre for the history of science in contempora
 [**The Silverfish**](https://thesilverfish.archives.ncbs.res.in) is a magazine produced by the Archives at NCBS.
 
 # Resources
-<div class="wa-grid">
-<wa-button href="https://archives.ncbs.res.in/access/" variant="brand"><wa-icon slot="start" name="link"></wa-icon>Access and Use</wa-button>
+<div class="wa-grid" style="--min-column-size: 16rem;">
+<wa-button width="100%" href="https://archives.ncbs.res.in/access/" variant="brand"><wa-icon slot="start" name="link"></wa-icon>Access and Use</wa-button>
 <wa-button href="https://collections.archives.ncbs.res.in/bitstreams/c4f7ff66-c5b2-4134-968d-d066dc41c1b9/download" variant="brand"><wa-icon slot="start" name="file-pdf"></wa-icon>Researcher Application</wa-button>
 <wa-button href="https://collections.archives.ncbs.res.in/bitstreams/d2a62180-6c5e-4414-b93c-3c8b1ab9db32/download" variant="brand"><wa-icon slot="start" name="file-pdf"></wa-icon>Material Use Form</wa-button>
 <wa-button href="https://collections.archives.ncbs.res.in/bitstreams/7bd4e83c-70f7-409c-a586-b67f6eea2084/download" variant="brand" class="wa-span-grid"><wa-icon slot="start" name="file-pdf"></wa-icon>Agreement Form: Oral Histories</wa-button>
