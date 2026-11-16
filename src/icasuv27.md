@@ -14,7 +14,7 @@ title:  ICA-SUV 2027 Conference
 </div>
 
 
-Link this page: [https://archives.ncbs.res.in/icasuv27](https://archives.ncbs.res.in/icasuv27)
+Link to this page: [https://archives.ncbs.res.in/icasuv27](https://archives.ncbs.res.in/icasuv27)
 
 ### CALL FOR PAPERS
 
@@ -58,14 +58,14 @@ We encourage you all to submit as we are hoping for a diverse range of speakers 
 
 How to submit: Please complete this<TKTK change link> form by 15 January 2027. We expect to have finalised the programme by 28 February 2027 and registration to open by 15 Mar 2027.
 
-
-### Key Dates:
-
-Call for Proposal: November 15, 2026\
-Deadline: Jan 15, 2027\
-Review Committee Decisions: Feb 28 2027\
-Registration Open (for speakers and attendees): Mar 15 2027\
-Presenter confirmations: Mar 31 2027\
-Registration Close: Apr 15 2027\
-Final Schedule: Aug 15 2027\
-Conference: Nov 11-13, 2027\
+<wa-callout variant="brand" markdown="block">
+### Key Dates
+##### Call for Proposal: November 15, 2026
+##### Deadline: Jan 15, 2027
+##### Review Committee Decisions: Feb 28 2027
+##### Registration Open (for speakers and attendees): Mar 15 2027
+##### Presenter confirmations: Mar 31 2027
+##### Registration Close: Apr 15 2027
+##### Final Schedule: Aug 15 2027
+##### Conference: Nov 11-13, 2027
+</wa-callout>

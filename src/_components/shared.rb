@@ -14,7 +14,7 @@ module Shared
         search: false,
         site_title: metadata.title,
         nav_links: [
-          Willamette.link(title: t("nav.home"), url: "/"),
+          # Willamette.link(title: t("nav.home"), url: "/"),
           Willamette.link(title: t("nav.catalogue"), url: "https://catalogue.archives.ncbs.res.in"),
           Willamette.link(title: t("nav.access"), url: "/access"),
           Willamette.link(title: t("nav.updates"), url: "/updates"),
