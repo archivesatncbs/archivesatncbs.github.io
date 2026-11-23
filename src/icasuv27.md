@@ -3,7 +3,10 @@ layout: page
 title:  ICA-SUV 2027 Conference
 ---
 
-![ICA SUV Banner](./images/ica-suv.png)
+<figure>
+    <img src="images/ica-suv.png" alt="Archives at NCBS - ICA SUV 2027">
+</figure>
+
 
 <div align="center">
 <h2>EVOLVING TOGETHER</h2>
