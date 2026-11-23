@@ -28,7 +28,7 @@ Applicants are requested to review the scope for the Obaid Siddiqi Chair's tenur
 
 ### Application form: [https://forms.gle/7LiRYtoekjVE6xHM7](https://forms.gle/7LiRYtoekjVE6xHM7)
 
-![OSC_POSTER_2027-28](../src/images/OSC_2027-28.jpg)
+![OSC_POSTER_2027-28](./images/OSC_2027-28.jpg)
 
 
 ## Obaid Siddiqi Chair, 2026-27
