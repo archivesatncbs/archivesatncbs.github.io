@@ -15,6 +15,22 @@ The Archives at National Centre for Biological Sciences (NCBS) is delighted to a
 ![TNQ Logo](https://tnq.foundation/assets/img/tnq-logo-footer.png)
  
 
+## Dates for Academic Year 2027-2028
+Application Submission Deadline: **Sun, Jan 10, 2027**
+Award Confirmation: End April 2027
+Duration: ~Aug 2027 - Jul 2028 (Start and end dates are flexible; the duration is one year)
+
+If you would like to nominate someone, please do send us an email at archives@ncbs.res.in or point them toward this website. All nominated applicants will still be requested to submit the form below. Any nomination letters will be added to the application package for the review committee.
+
+The Chair leads a much-needed effort to bridge the gap between the Sciences, Social Sciences and Humanities, and fosters a diverse and inclusive community of academics across disciplines. With this focus on a cross-disciplinary approach and the Archives as a foundational ‘lab’, the Chair also helps build teaching and research capacity of academics at the intersection of the sciences and humanities. This is part of a broader effort in developing a programme in the History and Culture of Science.
+
+Applicants are requested to review the scope for the Obaid Siddiqi Chair's tenure (outlined below) and tailor their statement to this scope.
+
+### Application form: [https://forms.gle/7LiRYtoekjVE6xHM7](https://forms.gle/7LiRYtoekjVE6xHM7)
+
+![OSC_POSTER_2027-28](../src/images/OSC_2027-28.jpg)
+
+
 ## Obaid Siddiqi Chair, 2026-27
 
 Paromita Vohra is the sixth Obaid Siddiqi Chair in the History and Culture of Science at the Archives at NCBS for the academic year, 2026-27. Vohra is an award-winning filmmaker, writer, and digital creator known for films such as Working Girls (2025), Partners in Crime (2012), and UnLimited Girls (2002), and for founding Agents of Ishq, a groundbreaking digital platform on sex and love that began in 2015. As the Obaid Siddiqi Chair, Vohra aims to explore how 'uncategorisable', in the context of archives, can be understood not as a lack, but as a quality with its own force. Using the collections from the history and culture of science in contemporary India housed at the Archives at NCBS, among other sources, she will look into the methods, tools, and aesthetic strategies that such a condition demands, and the challenge that it might pose to the authority of familiar classifications. More here: https://news.ncbs.res.in/research-explained/paromita-vohra-sixth-obaid-siddiqi-chair-history-and-culture-science-2026-2027
@@ -90,5 +106,11 @@ A week-long seminar during the Chair’s tenure where a group of 15-20 selected 
   Through the year, the Chair can be available to mentor students through guest lectures or informal sessions. They could work on projects with graduate students that also connect with the Archives at NCBS.
   - **Collaboration with the Archives at NCBS**\ If they wish to, the Chair can sit in on any reviews of the Archives at NCBS and offer their critical evaluations of its vision and past work. In addition, the Chair can offer to leverage their connections in their discipline and beyond to strengthen the research collections at the Archives at NCBS.
 
+### Application form: [https://forms.gle/7LiRYtoekjVE6xHM7](https://forms.gle/7LiRYtoekjVE6xHM7)
 
-#### Application Form
+## Process summary
+
+Dates for Academic Year 2027-2028\
+Application Submission Deadline: Sun, Jan 10, 2027\
+Award Confirmation: End April 2027\
+Duration: ~Aug 2027 - Jul 2028 (Start and end dates are flexible; the duration is one year)
